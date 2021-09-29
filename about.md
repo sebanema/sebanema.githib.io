@@ -20,6 +20,7 @@ Inspired learning
 I am always looking for new ways to network, make new friends and take on holiday projects, so feel free to contact me using the following:
 
 [sebanema@gmail.com](mailto:sebanema@gmail.com)
+
 [Linked in](https://www.linkedin.com/in/sebastian-anema/)
 
 Please also head over to my CV page, where I am currently looking for new work experiences in any field that I can adapt my skills to make a fulfilling difference!
