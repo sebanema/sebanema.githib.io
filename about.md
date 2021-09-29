@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 published: true
 ---
 
-Hello there, my name is **Sebastian Anema**. I am currently studying Investment Management at the University of Stellenbosch in South Africa. I love to read, write and play sports. Growing up in the diverse microcosm that is Cape Town, I love to adventure the local mountains, sea and forests whenever I get the opportunity for new experiences!
+Hello there, my name is **Sebastian Anema**.  I am currently studying Investment Management at the University of Stellenbosch in South Africa. I love to read, write and play sports. Growing up in the diverse microcosm that is Cape Town, I love to adventure the local mountains, sea and forests whenever I get the opportunity for new experiences!
 
 Combining a passion for finance, technology and conservation – I want to serve my purpose on earth in creating sustainable practices in the transfer of value, through:
 
